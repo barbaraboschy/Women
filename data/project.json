@@ -24,11 +24,177 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Discurso",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Dispositivos_retóricos",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Emocion",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Perspectiva",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Expectativas Sociales",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Contradicciones",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Doble Estándar",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Presión Estética",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Trabajo y Éxito",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Maternidad",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Injusticia",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Sistema Social",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Conciencia Social",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Representación",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Culpa",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Aceptación Social",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Presión Social",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Autoexigencia",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Inseguridad",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Competencia Femenina",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Hermandad",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Cuidado de Otros",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Liderazgo",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Reflexión",
+          "category": "Discurso"
+        },
+        {
+          "tag": "Anáfora",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Enumeración",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Contraste",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Hipérbole",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Generalización",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Ironía",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Repetición",
+          "category": "Dispositivos_retóricos"
+        },
+        {
+          "tag": "Frustración",
+          "category": "Emocion"
+        },
+        {
+          "tag": "Empatía",
+          "category": "Emocion"
+        },
+        {
+          "tag": "Validación",
+          "category": "Emocion"
+        },
+        {
+          "tag": "Agotamiento",
+          "category": "Emocion"
+        },
+        {
+          "tag": "Desesperación",
+          "category": "Emocion"
+        },
+        {
+          "tag": "Confusión",
+          "category": "Emocion"
+        },
+        {
+          "tag": "Voz Colectiva",
+          "category": "Perspectiva"
+        },
+        {
+          "tag": "Experiencia Personal",
+          "category": "Perspectiva"
+        },
+        {
+          "tag": "Transición",
+          "category": "Perspectiva"
+        }
+      ]
     },
     "created_at": "2026-04-13T20:53:04.510Z",
-    "updated_at": "2026-04-13T21:01:58.992Z",
+    "updated_at": "2026-04-13T21:04:22.046Z",
     "generate_pages_site": true
   },
   "annotations": {},
