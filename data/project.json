@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "barbaraboschy",
+    "is_private": false,
+    "title": "What it is to be a woman today",
+    "description": "Renowned speech from \"Barbie\" (2023) in which Greta Gerwig´s writing describes the reality of being a woman in our world today. ",
+    "language": "en",
+    "slug": "Women",
+    "creator": "barbaraboschy",
+    "authors": "Barbara Bosch",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-04-13T20:53:04.510Z",
+    "updated_at": "2026-04-13T20:53:04.510Z"
   }
 }
