@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "barbaraboschy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269574462?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "barbaraboschy",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-04-13T20:53:04.510Z",
-    "updated_at": "2026-04-13T20:53:04.510Z"
-  }
+    "updated_at": "2026-04-13T20:53:04.510Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "32c869b9-0a83-405e-a51b-6216b8c73387": {
+      "content": [],
+      "created_at": "2026-04-13T20:53:04.548Z",
+      "created_by": "barbaraboschy",
+      "title": "What it is to be a woman today",
+      "updated_at": "2026-04-13T20:53:04.548Z",
+      "updated_by": "barbaraboschy",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "32c869b9-0a83-405e-a51b-6216b8c73387"
+  ]
 }
